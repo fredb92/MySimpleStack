@@ -13,7 +13,7 @@ public class SimpleStackImplTest extends TestCase {
     // com exigence 1
 
     /**
-     * 2e com exigence 1
+     * essai 2 com exigence 1
      */
 
     SimpleStack simpleStack;
