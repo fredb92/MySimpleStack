@@ -10,6 +10,12 @@ import org.junit.Test;
  */
 public class SimpleStackImplTest extends TestCase {
 
+    // com exigence 1
+
+    /**
+     * 2e com exigence 1
+     */
+
     SimpleStack simpleStack;
 
     @Before
