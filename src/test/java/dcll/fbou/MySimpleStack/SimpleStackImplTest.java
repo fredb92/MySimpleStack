@@ -5,6 +5,9 @@ import junit.framework.TestCase;
 import org.junit.Before;
 import org.junit.Test;
 
+/**
+ * com répondant à l'exigence 3
+ */
 public class SimpleStackImplTest extends TestCase {
 
     SimpleStack simpleStack;
